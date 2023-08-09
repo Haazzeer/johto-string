@@ -3,8 +3,8 @@
 - NPCs
 - Healing dialogue removed
 - HM's dialogue removed
-- Gym leader dialogue removed
-- Elite Four  dialogue removed
+- Gym leader dialogue removed (Johto)
+- Elite Four  dialogue removed (Johto)
 
 
 # Install
